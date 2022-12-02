@@ -1,0 +1,25 @@
+[
+    {
+        "First_Name" : "Joshua",
+        "Last_Name" : "Llante",
+        "Age" : "19",
+        "Address" : "Pavia",
+        "Contact_Number" : "09782633819"
+    },
+
+    {
+        "First_Name" : "Gavin",
+        "Last_Name" : "Caalem",
+        "Age" : "19",
+        "Address" : "Jaro",
+        "Contact_Number" : "09284627234"
+    },
+
+    {
+        "First_Name" : "Shye",
+        "Last_Name" : "Custodio",
+        "Age" : "19",
+        "Address" : "Pavia",
+        "Contact_Number" : "09284738746"
+    }
+]
