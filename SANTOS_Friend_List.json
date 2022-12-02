@@ -1,25 +1,38 @@
 [
     {
-        "First_Name" : "Joshua",
-        "Last_Name" : "Llante",
-        "Age" : "19",
-        "Address" : "Pavia",
+        "First_Name" : "Justin",
+        "Last_Name" : "Santos",
+        "Age" : "20",
+        "Address" : "Pototan",
         "Contact_Number" : "09782633819"
     },
-
+  
     {
-        "First_Name" : "Gavin",
-        "Last_Name" : "Caalem",
-        "Age" : "19",
-        "Address" : "Jaro",
-        "Contact_Number" : "09284627234"
-    },
-
-    {
-        "First_Name" : "Shye",
-        "Last_Name" : "Custodio",
-        "Age" : "19",
-        "Address" : "Pavia",
-        "Contact_Number" : "09284738746"
-    }
+        "Friends List" : [
+          {
+              "Name": "Shye Custodio",
+              "Age": "20",
+              "Address": "Pavia",
+              "Likes" :"Math",
+              "Dislikes" : "Filipino", 
+              "Feeling" : "Good"
+          },
+          {
+            "Name": "Joshua Llante",
+            "Age": "20",
+            "Address": "Pavia",
+            "Likes" :"Drawing / Designing ",
+            "Dislikes" : " FIlipino", 
+            "Feeling" : " Handsome "
+          },
+          {
+            "Name": "Gavin Matthew Caalem",
+            "Age": "20",
+            "Address": "Pavia",
+            "Likes" :"Motorbike",
+            "Dislikes" : "Filipino", 
+            "Feeling" : "Cool / Refreshed"
+          }]
+      }
+ 
 ]
