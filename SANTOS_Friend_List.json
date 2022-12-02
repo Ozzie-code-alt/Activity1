@@ -1,38 +1,44 @@
 [
-    {
-        "First_Name" : "Justin",
-        "Last_Name" : "Santos",
-        "Age" : "20",
-        "Address" : "Pototan",
-        "Contact_Number" : "09782633819"
-    },
-  
-    {
-        "Friends List" : [
-          {
-              "Name": "Shye Custodio",
-              "Age": "20",
-              "Address": "Pavia",
-              "Likes" :"Math",
-              "Dislikes" : "Filipino", 
-              "Feeling" : "Good"
-          },
-          {
-            "Name": "Joshua Llante",
-            "Age": "20",
-            "Address": "Pavia",
-            "Likes" :"Drawing / Designing ",
-            "Dislikes" : " FIlipino", 
-            "Feeling" : " Handsome "
-          },
-          {
-            "Name": "Gavin Matthew Caalem",
-            "Age": "20",
-            "Address": "Pavia",
-            "Likes" :"Motorbike",
-            "Dislikes" : "Filipino", 
-            "Feeling" : "Cool / Refreshed"
-          }]
-      }
- 
+  {
+     "First_Name": "Justin ",
+     "Last_Name": "Santos",
+     "Age": "20",
+     "Address": "Pototan",
+     "Contact_Number": "09647383957",
+     "Friends-List": [{
+           "Name": {
+              "First_Name": "Shye",
+              "Last_Name": "Custodio"
+           },
+           "Age": "20",
+           "Address":"Pavia",
+           "Likes": "Solve Math Problems",
+           "Dislikes": "Filipino Subject",
+           "Feeling": "Tired/ Exhausted"
+        },
+        
+        {
+           "Name": {
+              "First_Name": "Joshua",
+              "Last_Name": "Llante"
+           },
+           "Age": "20",
+           "Address":" Pavia ",
+           "Likes": "Car / Drive his Car",
+           "Dislikes": "Filipino Subject Aswell",
+           "Feeling": "Cool / Refreshed"
+        },
+        {
+           "Name": {
+              "First_Name": "Gavin Matthew",
+              "Last_Name":"Caalem"
+           },
+           "Age": "20",
+           "Address": "jaro, Iloilo City",
+           "Likes": "Motorcycles",
+           "Dislikes": "Filipino",
+           "Feeling": "Excited / Happy"
+        }
+     ]
+  }
 ]
